@@ -1,0 +1,5 @@
+let seuNome = "Marco Antonio Zancanaro Dos Anjos"
+let seuEmail = "marco.zancanaro@yahoo.com.br"
+let suaProfissao = "Advogado"
+let suaIdade = "29"
+let oLugarQueVoceSonhaUmDiaConhecer = "Roma"
